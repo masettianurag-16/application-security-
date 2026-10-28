@@ -313,83 +313,32 @@ The `add_security_headers` function runs after every request to apply defensive 
 *(Screenshots can be added here when presenting the project in a portfolio or report)*
 
 ### 1. Home Page & Security Overview
-```text
-+-----------------------------------------------------------------------+
-|  [🔒 AppSec Demo]                                  Home  Security Tips|
-|                                                                       |
-|             🔒 Secure User Authentication & AppSec Demo              |
-|        A beginner-friendly project demonstrating core web security    |
-|                                                                       |
-|              [ 📝 Register ]   [ 🔑 Login ]   [ 🛡️ Dashboard ]        |
-+-----------------------------------------------------------------------+
-```
-*(Placeholder: Add screenshot of Home Page here — `docs/screenshots/home.png`)*
+<img width="1890" height="961" alt="Screenshot 2026-10-28 212336" src="https://github.com/user-attachments/assets/a5fa5bc3-b53c-4482-8177-da70f94266fe" />
+<img width="1902" height="893" alt="Screenshot 2026-10-28 212351" src="https://github.com/user-attachments/assets/9f6c4eb0-78a7-45ad-a6ac-7c1dff24f0ef" />
+<img width="1896" height="938" alt="Screenshot 2026-10-28 212409" src="https://github.com/user-attachments/assets/2fef53e7-7259-4ca7-8280-1b0ded4c58d3" />
 
----
 
 ### 2. User Registration & Validation
-```text
-+-----------------------------------------------------------------------+
-|  📝 Create Account                                                    |
-|                                                                       |
-|  Username:          [ student_user               ]                    |
-|  Email Address:     [ student@example.com        ]                    |
-|  Password:          [ ••••••••••••               ]                    |
-|  Confirm Password:  [ ••••••••••••               ]                    |
-|                                                                       |
-|  🔒 Security Note: Passwords are encrypted using scrypt hashing.       |
-|                                                                       |
-|  [ Create Account ]                                                   |
-+-----------------------------------------------------------------------+
-```
-*(Placeholder: Add screenshot of Registration Page with validation error alerts here — `docs/screenshots/register.png`)*
+<img width="1886" height="910" alt="Screenshot 2026-10-28 212501" src="https://github.com/user-attachments/assets/90686b3a-9bb3-43b2-b26c-7ef1e35f9aa0" />
+<img width="1887" height="947" alt="Screenshot 2026-10-28 212512" src="https://github.com/user-attachments/assets/3cbfa99e-4829-4e00-b7a7-94786639e028" />
+<img width="1887" height="905" alt="Screenshot 2026-10-28 212709" src="https://github.com/user-attachments/assets/83bca2e0-ece1-4e00-827a-3e97bd21d20d" />
 
----
 
 ### 3. User Dashboard & Security Checklist
-```text
-+-----------------------------------------------------------------------+
-|  Welcome back, student_user! 👋                      [ 🔓 Logout ]    |
-|                                                                       |
-|  👤 Account Information             🔐 Security Status               |
-|  Username: student_user             ✓ Password stored using scrypt    |
-|  Email:    student@example.com      ✓ Authentication enabled          |
-|  Role:     User                     ✓ Authorization enabled           |
-|  Password: [Hidden - Hash Only]     ✓ Input validation active         |
-+-----------------------------------------------------------------------+
-```
-*(Placeholder: Add screenshot of User Dashboard here — `docs/screenshots/dashboard.png`)*
+<img width="1896" height="882" alt="Screenshot 2026-10-28 212737" src="https://github.com/user-attachments/assets/b0851a68-8866-44dd-a3d9-42eec817c170" />
+<img width="1875" height="902" alt="Screenshot 2026-10-28 212920" src="https://github.com/user-attachments/assets/05d40b00-54b5-4d1b-9873-13f4b632e254" />
+<img width="1865" height="902" alt="Screenshot 2026-10-28 212934" src="https://github.com/user-attachments/assets/499aa024-5482-4b87-be86-36aac0bc7957" />
 
----
 
 ### 4. Admin Dashboard (Role-Based Access)
-```text
-+-----------------------------------------------------------------------+
-|  🛡️ Administrator Dashboard                                          |
-|  Total Registered Users: 2                                            |
-|                                                                       |
-|  ID | Username     | Email               | Role  | Created At         |
-|  1  | admin        | admin@example.com   | admin | 2026-09-10 11:58   |
-|  2  | student_user | student@example.com | user  | 2026-09-10 12:06   |
-+-----------------------------------------------------------------------+
-```
-*(Placeholder: Add screenshot of Admin Dashboard here — `docs/screenshots/admin.png`)*
+<img width="1892" height="897" alt="Screenshot 2026-10-28 213106" src="https://github.com/user-attachments/assets/521cd505-2783-4996-b4a0-570ea87e1eec" />
+<img width="947" height="723" alt="Screenshot 2026-10-28 213120" src="https://github.com/user-attachments/assets/b6a917f8-e955-4d29-a256-0f4fca0f0421" />
+<img width="1900" height="915" alt="Screenshot 2026-10-28 213209" src="https://github.com/user-attachments/assets/c55a8731-c9c0-4fa5-997d-82273bda8f4a" />
 
----
 
 ### 5. Custom 403 Forbidden (Access Denied)
-```text
-+-----------------------------------------------------------------------+
-|                                403                                    |
-|                           Access Denied                               |
-|        Access denied. Administrator privileges required.              |
-|                                                                       |
-|              [ 🏠 Return to Home ]    [ 📊 My Dashboard ]             |
-+-----------------------------------------------------------------------+
-```
-*(Placeholder: Add screenshot of 403 Forbidden page here — `docs/screenshots/403.png`)*
+<img width="1881" height="951" alt="Screenshot 2026-10-28 213410" src="https://github.com/user-attachments/assets/e445e3ff-072b-4c58-b450-eaefdddd9f3f" />
 
----
 
 ## 🛡️ 11. Security Considerations & Limitations
 
